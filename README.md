@@ -90,10 +90,9 @@ urlpatterns = [
 
 
 
-##  BMI SERVER SIDE PROCESSING: 
 
 
-## HOMEPAGE:
+## Output:
 <img width="322" height="247" alt="image" src="https://github.com/user-attachments/assets/131a6305-9f96-4b0f-9676-01a5e3487756" />
 
 
